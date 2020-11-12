@@ -1,0 +1,21 @@
+{
+    "name": "panthsoni/collection",
+    "description": "this is a collection dev",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "panthsoni",
+            "email": "18029882568@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "panthsoni\\collection\\": "src"
+        }
+    }
+}
